@@ -11,7 +11,7 @@ Aplicación web moderna y profesional diseñada para **YEL Insumos**, distribuid
 
 ## 🚀 Demo
 
-[![Ver Demo](https://img.shields.io/badge/VER%20DEMO-ONLINE-green?style=for-the-badge)]([https://carlosdm121.github.io/urban-barber-landing/](https://insumos-estetica.vercel.app/))
+[![Ver Demo](https://img.shields.io/badge/VER%20DEMO-ONLINE-green?style=for-the-badge)](https://insumos-estetica.vercel.app/)
 
 ---
 ---
